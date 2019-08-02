@@ -1,4 +1,4 @@
-# NgrxCounter
+# ngrx-counter
 
 learn how to use basic `ngrx store` and `reducer`
 
