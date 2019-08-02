@@ -4,12 +4,7 @@ Reference: https://ngrx.io/guide/store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
-Node v10.15.3
-npm 6.4.1
-
-Angular 8
-ngrx 8.2
-rxjs 6.4
+Node v10.15.3 / npm 6.4.1 / Angular 8 / ngrx 8.2 / rxjs 6.4
 
 ## Development server
 
